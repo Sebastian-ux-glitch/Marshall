@@ -1,7 +1,7 @@
 Responsive website design using HTML, CSS and JS
 ## Documentation
 
-[Documentation](https://app.netlify.com/sites/gilded-kashata-36b119/deploys/6513ff72bbea0e009ba6d684)
+[Documentation](https://6513ff72bbea0e009ba6d684--gilded-kashata-36b119.netlify.app/)
 
 
 
